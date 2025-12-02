@@ -1,0 +1,11 @@
+{
+  "name": "siva-jyothis-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Siva Jyothis - Senior ERPNext & Frappe Developer",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'Static site - no build required'"
+  },
+  "author": "Siva Jyothis",
+  "license": "MIT"
+}
